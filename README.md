@@ -28,7 +28,7 @@ And at the end of update put input.update()
 
 For use with Average4K lol
 
-E.g. 
+E.g. (all input code should go in update)
 ```lua
 if input.down("name") then
   consolePrint("name is down")
