@@ -1,6 +1,7 @@
-# InputHandler-Avg4k
+# AvgInputHandler
 
 I made an input handler 🥺 
+(for avg4k)
 
 You can do 
 ```lua
