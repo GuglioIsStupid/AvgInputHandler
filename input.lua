@@ -1,3 +1,8 @@
+--[[
+I see you looking in this file. IDK why, all you'll see is horrible code...
+
+Anyways, this handler was made by @GuglioIs2Stupid
+--]]
 input = {}
 
 input.keyList = {}
